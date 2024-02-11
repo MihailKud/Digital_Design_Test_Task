@@ -4,8 +4,6 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # User-specific files
-voyna-i-mir_out.txt
-voyna-i-mir-tom-1.txt
 *.rsuser
 *.suo
 *.user
